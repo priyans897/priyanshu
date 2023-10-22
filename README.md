@@ -1,4 +1,4 @@
 # priyanshu
 this is priyanshu portfolio
 <br>
-I LOVE PROGRAMMING
+I LOVE PROGRAMMING and coding
